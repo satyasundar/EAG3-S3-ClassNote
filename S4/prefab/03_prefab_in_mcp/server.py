@@ -74,6 +74,9 @@ def counter_card() -> PrefabApp:
                     )
     return app
 
+@mcp.tool(app=True)
+def 
+
 
 if __name__ == "__main__":
     mcp.run()
